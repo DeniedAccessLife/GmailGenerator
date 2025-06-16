@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmailGenerator", "GmailGenerator\GmailGenerator.csproj", "{0C5C19EC-7B59-4B3F-AC6B-AC8CA4CBF07C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5C19EC-7B59-4B3F-AC6B-AC8CA4CBF07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5C19EC-7B59-4B3F-AC6B-AC8CA4CBF07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5C19EC-7B59-4B3F-AC6B-AC8CA4CBF07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5C19EC-7B59-4B3F-AC6B-AC8CA4CBF07C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855313ED-5435-442D-9D79-875E8A268C53}
+	EndGlobalSection
+EndGlobal
